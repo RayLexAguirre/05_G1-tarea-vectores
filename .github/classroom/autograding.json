@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "Sumar",
+      "setup": "npm install",
+      "run": "npm run test sumar.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Obtener posición mayor",
+      "setup": "",
+      "run": "npm run test obtenerPosicionMayor.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Convertir a letras",
+      "setup": "",
+      "run": "npm run test convertirALetras.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Es consecutivo",
+      "setup": "",
+      "run": "npm run test esConsecutivo.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "Obtener mayores",
+      "setup": "",
+      "run": "npm run test obtenerMayores.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Calificar",
+      "setup": "",
+      "run": "npm run test calificar.test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
